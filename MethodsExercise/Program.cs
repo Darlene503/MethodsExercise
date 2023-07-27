@@ -8,10 +8,10 @@
         {
             Add(2, 4);
             Multiply(10, 2);
-            dayAttheBeach();
+            DayAtTheBeach();
         }
 
-        public static void dayAttheBeach()
+        public static void DayAtTheBeach()
         {
 
 
@@ -37,8 +37,8 @@
             Console.WriteLine("________________________");
 
 
-            Console.WriteLine("Name: {userName}");
-            Console.WriteLine($"Favorite color): {color}");
+            Console.WriteLine("Name:{userName}");
+            Console.WriteLine($"Favorite Color): {color}");
             Console.WriteLine($"Favorite Animal: {animal}");
             Console.WriteLine($"Favorite Band: {band}");
 
